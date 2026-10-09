@@ -7,6 +7,11 @@ The project uses the **AI4I 2020 Predictive Maintenance Dataset** and takes the 
 The main goal was not just to train a machine learning model, but to build something that could take real machine operating conditions and turn them into a simple, understandable prediction.
 
 ---
+## Live Demo
+
+Try the deployed application here: **[Machine Failure Prediction App](https://machine-failure-prediction-ocxx.onrender.com)**
+
+Explore the application by entering machine operating data and viewing its predicted failure outcome.
 
 ##  Project Overview
 
